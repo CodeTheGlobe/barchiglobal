@@ -185,7 +185,7 @@ body {
     background: var(--gradient-primary);
     z-index: -1; */
 
-  background-image: url('./public/image4.jpg'); /* path to your image */
+  background-image: url('/public/image4.jpg'); /* path to your image */
   background-size: cover; /* make it cover the area */
   background-position: center; /* center the image */
   background-repeat: no-repeat; /* prevent repeating */
