@@ -178,20 +178,20 @@ body {
 }
 
 .hero-background {
-    /* position: absolute;
+    position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background: var(--gradient-primary);
-    z-index: -1; */
+     /* background: var(--gradient-primary); */
+    z-index: -1; 
 
   background-image: url('/pic2.jpg'); /* path to your image */
   background-size: cover; /* make it cover the area */
   background-position: center; /* center the image */
   background-repeat: no-repeat; /* prevent repeating */
-  height: 100vh; /* full screen height */
-  width: 100%; /* full width */
+  /* height: 100vh;  full screen height */
+  /* width: 100%;  full width */
 }
 
 
