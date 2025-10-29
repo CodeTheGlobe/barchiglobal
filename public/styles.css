@@ -660,7 +660,7 @@ section {
 
 .contact {
     background: var(--bg-light);
-    color: var(--bg-white);
+    color: var(--text-dark);
 }
 
 .contact-wrapper {
