@@ -696,7 +696,7 @@ section {
 .contact-icon {
     width: 48px;
     height: 48px;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(0, 0, 0, 0.1)
     border-radius: 10px;
     display: flex;
     align-items: center;
@@ -711,7 +711,7 @@ section {
 }
 
 .contact-item p {
-    color: rgba(255, 255, 255, 0.85);
+    color: rgba(0, 0, 0, 0.85)
     line-height: 1.6;
 }
 
