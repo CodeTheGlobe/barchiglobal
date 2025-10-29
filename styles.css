@@ -1,4 +1,6 @@
 
+
+
 * {
     margin: 0;
     padding: 0;
@@ -53,7 +55,7 @@ body {
     z-index: 1000;
     background-color: transparent;
     transition: all 0.3s ease;
-    padding: 20px 0;
+    padding: 12px 0;
 }
 
 .navbar.scrolled {
