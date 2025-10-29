@@ -659,7 +659,7 @@ section {
 }
 
 .contact {
-    background: var(--gradient-primary);
+    background: var(--bg-light);
     color: var(--bg-white);
 }
 
